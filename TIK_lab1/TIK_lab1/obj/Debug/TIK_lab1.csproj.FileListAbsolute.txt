@@ -1,0 +1,10 @@
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TIK_lab1\TIK_lab1\bin\Debug\TIK_lab1.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TIK_lab1\TIK_lab1\bin\Debug\TIK_lab1.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TIK_lab1\TIK_lab1\bin\Debug\TIK_lab1.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TIK_lab1\TIK_lab1\obj\Debug\TIK_lab1.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TIK_lab1\TIK_lab1\obj\Debug\TIK_lab1.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TIK_lab1\TIK_lab1\obj\Debug\TIK_lab1.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TIK_lab1\TIK_lab1\obj\Debug\TIK_lab1.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TIK_lab1\TIK_lab1\obj\Debug\TIK_lab1.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TIK_lab1\TIK_lab1\obj\Debug\TIK_lab1.TextAnalyzer.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\TIK_lab1\TIK_lab1\obj\Debug\TIK_lab1.WebSite.resources
